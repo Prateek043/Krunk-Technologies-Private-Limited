@@ -6,7 +6,6 @@ This is a simple web application Frontend for chat App.
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
-- [Usage](#usage)
 
 ## Prerequisites
 
@@ -29,18 +28,15 @@ Before running this project, make sure you have the following installed:
     npm install
 
 
-## Usage
-
 ### Start the development server:
 
 ### Frontend
 ```bash
 npm run dev
-
-
+```
 
 ## Screenshots
 
-![App Screenshot](Screenshot/screenshot1.png)
-![App Screenshot](Screenshot/screenshot2.png)
+![App Screenshot](./ScreenShot/screenshot1.png)
 
+![App Screenshot](./ScreenShot/screenshot2.png)
